@@ -1,0 +1,6 @@
+{
+  "name": "NetLab Pro",
+  "description": "Android Network Lab Simulator & Configurator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
